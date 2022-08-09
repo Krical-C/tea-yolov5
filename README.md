@@ -20,3 +20,5 @@ exp40 exp41是57张rgb标签训练结果
 测试结果在run/detect
 
 exp42 exp43是5张图相同标签个数下真彩和伪彩的训练结果,因为训练效果都不好所以没进行测试
+
+项目所需的包都在requirements.txt,若要用gpu需要额外安装pytorch-gpu版本
