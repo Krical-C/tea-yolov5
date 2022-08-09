@@ -1,0 +1,8 @@
+train: E:/python_project/yolov5-master/data/dataSet_path/train.txt
+val: E:/python_project/yolov5-master/data/dataSet_path/val.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ["new"]

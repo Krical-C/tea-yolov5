@@ -1,0 +1,11 @@
+Found existing installation: torch 1.12.0
+Uninstalling torch-1.12.0:
+  Would remove:
+    e:\anaconda3\envs\yolov5\lib\site-packages\caffe2\*
+    e:\anaconda3\envs\yolov5\lib\site-packages\torch-1.12.0.dist-info\*
+    e:\anaconda3\envs\yolov5\lib\site-packages\torch\*
+    e:\anaconda3\envs\yolov5\lib\site-packages\torchgen\*
+    e:\anaconda3\envs\yolov5\scripts\convert-caffe2-to-onnx.exe
+    e:\anaconda3\envs\yolov5\scripts\convert-onnx-to-caffe2.exe
+    e:\anaconda3\envs\yolov5\scripts\torchrun.exe
+Proceed (Y/n)?   Successfully uninstalled torch-1.12.0
